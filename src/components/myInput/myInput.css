@@ -1,0 +1,15 @@
+.my-input {
+  margin-bottom: 10px;
+}
+
+.my-input label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+}

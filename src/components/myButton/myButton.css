@@ -1,0 +1,23 @@
+.my-Button {
+  color: white;
+  cursor: pointer;
+  margin: 3px;
+  padding: 7px 15px;
+  border-radius: 8px;
+  border: none;
+}
+
+.btn-primary {
+  background-color: blue;
+}
+.btn-danger {
+background-color: red;
+}
+
+.btn-primary:hover {
+  background-color: blueviolet;
+}
+
+.btn-danger:hover {
+  background-color: orange;
+}

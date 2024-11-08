@@ -1,0 +1,30 @@
+.profile-card {
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  margin: 10px 600px;
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 8px;
+  max-width: 250px;
+  text-align: left;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-pictures {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile-name {
+  font-size: 1em;
+  margin: 0px 0;
+}
+
+.profile-occupation,
+.profile-hobby {
+  font-size: 0.9em;
+  color: #555;
+}
